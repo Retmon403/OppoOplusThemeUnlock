@@ -1,7 +1,7 @@
 # Oppo一加主题解锁
 
-![image](https://github.com/Retmon403/OppoOplusThemeUnlock/blob/main/p1.jpg)
-![image](https://github.com/Retmon403/OppoOplusThemeUnlock/blob/main/p2.jpg)
+![image](https://github.com/Retmon403/OppoOplusThemeUnlock/blob/main/p1.png)
+![image](https://github.com/Retmon403/OppoOplusThemeUnlock/blob/main/p2.png)
 
 ## 测试版本
 机型：一加ACE5，理论Oppo通用，coloros15.  
