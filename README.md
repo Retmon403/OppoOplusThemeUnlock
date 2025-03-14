@@ -1,4 +1,4 @@
-# Oppo一加主题解锁
+# OppoOplusThemeUnlock
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Retmon403/OppoOplusThemeUnlock/blob/main/p1.png" alt="图片1" width="48%" />
